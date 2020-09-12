@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-![Jacob]({{ site.url }}/assets/jacob.jpg)
+![Jacob]({{ site.url }}/blog/assets/jacob.jpg)
 
 
 My name is Xinwei Deng.
