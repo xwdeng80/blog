@@ -13,7 +13,7 @@ I'm a Statistician and Data Scientist.
 
 Currently I am the Co-Director of VT Statistics and AI Lab (VT-SAIL).
 
-Apart from what I write about here, I have other open source projects on my [github](http://github.com/xwdeng80).
+For more information, I have my homepage [github](http://xwdeng80.github.io).
 
 Drop me a line.
 
