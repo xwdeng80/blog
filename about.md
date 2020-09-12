@@ -13,7 +13,7 @@ I'm a Statistician and Data Scientist.
 
 Currently I am the Co-Director of VT Statistics and AI Lab (VT-SAIL).
 
-Apart from what I write about here, I have other open source projects on my [github](http://github.com/jacobgil).
+Apart from what I write about here, I have other open source projects on my [github](http://github.com/xwdeng80).
 
 Drop me a line.
 
@@ -21,8 +21,6 @@ Drop me a line.
 ## Getting in touch
 Email: xinwei.deng@gmail.com
 
-[Linkedin](https://www.linkedin.com/in/jacob-gildenblat)
+[Github](http://github.com/xwdeng80)
 
-[Twitter](https://twitter.com/JacobGildenblat)
-
-[Github](http://github.com/jacobgil)
+[Linkedin](https://www.linkedin.com/in/xwdeng80)
