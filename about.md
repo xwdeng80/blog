@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-![Jacob]({{ site.url }}/blog/assets/jacob.jpg)
+![Xinwei]({{ site.url }}/blog/assets/xinwei.jpg)
 
 
 My name is Xinwei Deng.
@@ -18,7 +18,7 @@ For more information, I have my homepage [github](http://xwdeng80.github.io).
 Drop me a line.
 
 
-## Getting in touch
+## Contact Me
 Email: xinwei.deng@gmail.com
 
 [Github](http://github.com/xwdeng80)
