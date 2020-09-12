@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Papers
+title: Research
 ---
 
 - [Certainty Pooling for Multiple Instance Learning](https://arxiv.org/abs/2008.10548)
