@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Overview of Active Learning for Deep Learning"
-date:   2020-02-21 22:10:33 +0200
+date:   2020-09-12 22:10:33 +0200
 permalink: activelearning
 tags: [Active Learning, Deep Learning]
 categories: [deep-learning]
@@ -35,19 +35,17 @@ excerpt: "Overview of different Active Learning algorithms for Deep Learning."
 
 # Introduction
 
-To train supervised machine learning algorithms, we need:
+To train a supervised learning method, we need:
 
-1. Data and annotations for the data.
-2. The ability to "learn" from the data, usually by optimizing a model so it fits the data and its annotations.
+1. A training data with inputs and responses.
+2. A model estimation procedure, often optimizing with respect to model parameters such that the estimated model fits the data well.
    
-
 Most of the focus of the machine learning community is about (2), creating better algorithms for learning from data.
 But getting useful annotated datasets is difficult. Really difficult. It can be expensive, time consuming, and you still end up with problems like annotations missing from some categories.
 
 I think that being able to build practical machine learning systems is a lot about tools to annotate data, and that a lot of the future innovation in building systems that solve real problems will be about being able to annotate high quality datasets quickly.
 
 Active Learning is a great building block for this, and is under utilized in my opinion.
-
 
 In this post I will give a short introduction to Classical Active Learning, and then go over several papers that focus on Active Learning for Deep Learning.
 
