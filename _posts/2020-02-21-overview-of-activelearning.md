@@ -35,7 +35,7 @@ excerpt: "Overview of different Active Learning algorithms for Deep Learning."
 
 # Introduction
 
-To train a supervised learning method, we need:
+In machine learning, supervised learning is a major component. To train a supervised learning method, one often needs:
 
 1. A training data with inputs and responses.
 2. A model estimation procedure, often optimizing with respect to model parameters such that the estimated model fits the data well.
@@ -47,7 +47,7 @@ I think that being able to build practical machine learning systems is a lot abo
 
 Active Learning is a great building block for this, and is under utilized in my opinion.
 
-In this post I will give a short introduction to Classical Active Learning, and then go over several papers that focus on Active Learning for Deep Learning.
+In this post I will give a short introduction to classical Active Learning, and then go over several papers that focus on Active Learning for Deep Learning.
 
 
 # Motivation
@@ -486,10 +486,4 @@ In Core-Sets, the embeddings were features from one of the last layers. In this 
 
 # Summary
 
-Thanks for reading. We went over active learning methods for Deep Learning.
-
-These methods are really creative, and it was a joy to write.
-
-We were focusing on images, but these methods can be used for other domains like text.
-
-I hope this will do some help to demystify active learning for Deep Learning.
+In the era of Data Sceince, I think active learning methods have great potential.
