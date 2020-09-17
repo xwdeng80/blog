@@ -10,7 +10,7 @@ excerpt: "Online Experiments Beyond A/B Testing."
 ---
 {% include katex.html %}
 
-# Table Of Contents
+# Table of Contents
 - [Introduction](#introduction)
 - [Motivation](#motivation)
 - [Online Experimentation](#online experiments)
