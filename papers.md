@@ -5,20 +5,12 @@ title: Research
 
 - [Scalable Algorithms for the Sparse Ridge Regression](https://arxiv.org/abs/1806.03756)
 
-	*2020 Weijun Xie and Xinwei Deng*
+	*Weijun Xie and Xinwei Deng (2020)*
 
-- [Self-Supervised Similarity Learning for Digital Pathology](https://arxiv.org/abs/1905.08139)
+- [Multivariate Regression of Mixed Responses for Evaluation of Visualization Designs](https://arxiv.org/abs/2004.02051)
 	
-	*2019 Jacob Gildenblat, Eldad Klaiman*
+	*Xiaoning Kang, Xiaoyu Chen, Ran Jin, Hao Wu, Xinwei Deng (2020)*
 
-- [Prediction of biomarker status, diagnosis and outcome from histology slides using deep learning-based hypothesis free feature extraction](https://ascopubs.org/doi/abs/10.1200/JCO.2019.37.15_suppl.3140?af=R&)
+- [Spatial Variable Selection and An Application to Virginia Lyme Disease Emergence](https://arxiv.org/abs/1809.06418)
 
-	*2018 Eldad Klaiman, Jacob Gildenblat, Ido Ben-Shaul, Astrid Heller, Konstanty Korski, Astrid Christina Kiermaier, Fabien Gaire*
-
-- [Virtualization of tissue staining in digital pathology using an unsupervised deep learning approach](https://arxiv.org/abs/1810.06415)
-
-	*2018 Amal Lahiani, Jacob Gildenblat, Irina Klaman, Shadi Albarqouni, Nassir Navab, Eldad Klaiman*
-
-- [Generalizing multistain immunohistochemistry tissue segmentation using one-shot color deconvolution deep neural networks](https://arxiv.org/abs/1805.06958)
-
-	*2018 Amal Lahiani, Jacob Gildenblat, Irina Klaman, Nassir Navab, Eldad Klaiman*
+	*Yimeng Xie, Li Xu, Jie Li, Xinwei Deng, Yili Hong, Korine Kolivras, David N. Gaines (2019)*
