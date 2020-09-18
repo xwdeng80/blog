@@ -3,9 +3,9 @@ layout: page
 title: Research
 ---
 
-- [Certainty Pooling for Multiple Instance Learning](https://arxiv.org/abs/2008.10548)
+- [Scalable Algorithms for the Sparse Ridge Regression](https://arxiv.org/abs/1806.03756)
 
-	*2020 Jacob Gildenblat, Ido Ben-Shaul, Zvi Lapp, Eldad Klaiman*
+	*2020 Weijun Xie and Xinwei Deng*
 
 - [Self-Supervised Similarity Learning for Digital Pathology](https://arxiv.org/abs/1905.08139)
 	
