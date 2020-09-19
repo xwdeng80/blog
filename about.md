@@ -15,9 +15,6 @@ Currently I am the Co-Director of VT Statistics and AI Lab (VT-SAIL).
 
 For more information, I have my homepage [github](http://xwdeng80.github.io).
 
-Drop me a line.
-
-
 ## Contact Me
 Email: xinwei.deng@gmail.com
 
