@@ -479,9 +479,8 @@ probability distribution where a point x is chosen with probability proportional
 4. Repeat Steps 2 and 3 until k centers have been chosen.
 ```
 
-If you recall the Core-Set work, it's really similar to K-means++ !
+If you recall the Core-Set work, it is really similar to K-means++ !
 In Core-Sets, the embeddings were features from one of the last layers. In this work it's almost the same thing, but with gradient embeddings.
-
 
 
 # Summary
