@@ -23,11 +23,12 @@ Online Experimentation has been very pouplar with wide applications in various s
 
 # Motivation
 
-Conventional A/B testing:
+**Conventional A/B testing:**
 
 The treatments (design A or design B) are randomly assign to experiment units (users). 
 For example,  
 
-Switchback experiment:
+**Switchback experiment:**
+
 
 # Summary
