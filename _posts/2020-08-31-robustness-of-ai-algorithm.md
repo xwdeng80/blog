@@ -3,12 +3,13 @@ layout: post
 title:  "Robusness of AI Algorithm"
 date:   2020-08-31 14:10:33 +0200
 permalink: robustness_of_ai_algorithm
+excerpt: Discussion on the robustness of AI algorithms
+
 ---
+
 <!--
-![](https://raw.githubusercontent.com/jacobgil/dlib_facedetector_pytorch/master/positive_images/13_4.jpg)```
+![](https://raw.githubusercontent.com/jacobgil/dlib_facedetector_pytorch/master/positive_images/13_4.jpg)
 -->
-Discussion on the robustness of AI algorithms
----
 
 ## An Experimental Design Perspective 
 
