@@ -40,4 +40,4 @@ There are several aspects of computation playing roles in the robustness of algo
 
 ## Summary
 
-In this post, we 
+In this post, we investgate the robustness of the AI classification algorithms. 
