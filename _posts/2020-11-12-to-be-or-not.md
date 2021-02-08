@@ -10,7 +10,7 @@ excerpt: "Towards Data Science: To Be or Not to Be"
 ---
 {% include katex.html %}
 
-# Table Of Contents
+# Table of Contents
 - [Introduction](#introduction)
 - [Motivation](#motivation)
 - [Towards Data Science](#data science)
