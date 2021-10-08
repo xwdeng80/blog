@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Robusness of AI Algorithm"
-date:   2020-08-31 14:10:33 +0200
+date:   2021-05-31 14:10:33 +0200
 permalink: robustness_of_ai_algorithm
 excerpt: Discussion on the robustness of AI algorithms
 
