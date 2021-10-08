@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Towards Data Science: To Be or Not to Be a Statistician"
-date:   2021-8-16 10:45:00 +0200
+date:   2021-08-16 10:45:00 +0200
 permalink: datascience
 tags: [Data Science]
 categories: [data-science]
