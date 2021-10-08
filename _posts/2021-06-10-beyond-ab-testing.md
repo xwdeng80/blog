@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Beyond A/B Testing"
-date:   2020-09-16 16:45:00 +0200
+date:   2021-06-10 16:45:00 +0200
 permalink: onlinedesign
 tags: [Online Experimentation]
 categories: [online-experiments]
