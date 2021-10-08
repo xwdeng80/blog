@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Overview of Active Learning for Deep Learning"
-date:   2020-09-12 22:10:33 +0200
+date:   2021-09-12 22:10:33 +0200
 permalink: activelearning
 tags: [Active Learning, Deep Learning]
 categories: [deep-learning]
