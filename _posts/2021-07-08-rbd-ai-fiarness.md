@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "From Robust Parameter Design to AI Fairness"
-date:   2021-02-08 10:45:00 +0200
+date:   2021-07-08 10:45:00 +0200
 permalink: datascience
 tags: [Data Science]
 categories: [data-science]
