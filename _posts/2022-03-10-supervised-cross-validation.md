@@ -5,7 +5,7 @@ date:   2022-03-10 22:10:33 +0200
 permalink: self-supervised-cross-validation
 tags: [Active Learning, Deep Learning]
 categories: [deep-learning]
-excerpt: "Self-supervised cross validationg"
+excerpt: "Self-supervised cross validation"
 
 ---
 ## Introduction
