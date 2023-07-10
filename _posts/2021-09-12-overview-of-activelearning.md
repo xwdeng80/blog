@@ -47,7 +47,7 @@ Exploit the unannotated data to get better feature representations and improve t
  
 # Active Learning: Higher accuracy with less data annotation
 
-![graph](figures/Framework.png){height="300" width="500"}
+![graph](figures/Framework.png){width=50%}
 
 *Image from https://arxiv.org/abs/1703.02910*
 
