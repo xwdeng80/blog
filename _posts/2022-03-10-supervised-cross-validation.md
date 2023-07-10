@@ -1,6 +1,6 @@
 ---
 layout: post: 
-title:  "Self-supervised cross validation: embracing the data generation structure"
+title:  "Self-supervised cross validation by embracing data generation structure"
 date:   2022-03-10 22:10:33 +0200
 permalink: activelearning
 tags: [Active Learning, Deep Learning]
@@ -8,14 +8,12 @@ categories: [deep-learning]
 excerpt: "Self-supervised cross validationg"
 
 ---
-{% include katex.html %}
-
-# Introduction
+## Introduction
 
 In machine learning, supervised learning is a major component. To train a supervised learning method, one often needs:
 
 
-# Motivation
+## Motivation
 
 In many scenarios we will actually have access to a lot of data, but it will be infeasible to annotate everything.
 Just a few examples:
@@ -24,6 +22,6 @@ Just a few examples:
 - A video recorded from a dash cam that is a month long.
 - A scanned biopsy that has a million cells inside it.
 
-# Summary
+## Summary
 
 In the era of Data Sceince, cross validation is widely used. 
