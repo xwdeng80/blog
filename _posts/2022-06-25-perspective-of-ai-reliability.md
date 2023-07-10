@@ -2,7 +2,7 @@
 layout: post
 title:  "Statistical Perspectives on AI Reliability"
 date:   2022-06-25 14:10:33 +0200
-permalink: robustness_of_ai_algorithm
+permalink: perspective_of_ai_reliability
 excerpt: Statistical Perspectives on AI Reliability
 
 ---
