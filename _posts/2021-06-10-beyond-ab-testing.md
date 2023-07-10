@@ -23,12 +23,18 @@ In online experimentation, it is common for millions of users to arrive at the t
 bottom purchase webpage). Between the transition from the top page to the bottom page, users need to navigate through multiple pages where they can exit from the
 shopping process.
 
+However, there are some problems related to A/B testing:
+
+    - there is a high cost with the “bad” versions of the product, because they will continue to be offered to the user until the end of the test even if their returns are not good;
+    - there is also the risk of getting churned users, because those who received the “bad” version of the product during the whole test may have a poor experience with the product.
+
 There are also other online experiments such as switchback experiment and sequanetial experiments.
 
 - Switchback Experimentation
 
-Due to the limitations of A/B tests and the insufficiency of pre-post comparisons, the Dispatch team recently decided to switch to a new analytic framework for much of its experimentation — ‘switchback testing.’ Fun fact: switchback testing was originally employed in an agricultural context, specifically for cow lactation experiments. 
+Due to the limitations of A/B tests and the insufficiency of pre-post comparisons, some researches consider to switch to a new analytic framework for much of its experimentation — ‘switchback testing.’ 
+The switchback testing was originally used in an agriculture. In switchback testing, the core concept is that we switch back and forth between control and treatment algorithms in a certain region at alternating time periods. For example, in the SOS pricing example, we switch back and forth every 30 minutes between having SOS pricing and not having SOS pricing. We then compare the customer experience and marketplace efficiency between the control time bucket and treatment time bucket metrics corresponding to the decisions made by the algorithm during the two periods.
 
-In switchback testing, the core concept is that we switch back and forth between control and treatment algorithms in a certain region at alternating time periods. For example, in the SOS pricing example, we switch back and forth every 30 minutes between having SOS pricing and not having SOS pricing. We then compare the customer experience and marketplace efficiency between the control time bucket and treatment time bucket metrics corresponding to the decisions made by the algorithm during the two periods.
+Multi-armed Bandits
 
 # Summary
