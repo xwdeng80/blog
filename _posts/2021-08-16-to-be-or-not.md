@@ -12,6 +12,7 @@ excerpt: "Towards Data Science: To Be or Not to Be"
 
 # Introduction
 Data science is to deal with data, from all apspects. 
+Data science combines math and statistics, mathematics, computation, data analytics and artificial intelligence (AI) to unfold insightful information and knowledge from data.
 
 # Motivation
 As a statistican, we always think about the data. Often times, we think the data is there, being cleaned and with good format.
