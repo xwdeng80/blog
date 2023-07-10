@@ -10,7 +10,7 @@ excerpt: "Overview of Active Learning Algorithms"
 ---
 {% include katex.html %}
 
-# Introduction
+## Introduction
 
 In machine learning, supervised learning is a major component. To train a supervised learning method, one often needs:
 
@@ -27,7 +27,7 @@ Active Learning is a great building block for this, and is under utilized in my 
 In this post I will give a short introduction to classical Active Learning, and then go over several papers that focus on Active Learning for Deep Learning.
 
 
-# Motivation
+## Motivation
 
 In many scenarios we will actually have access to a lot of data, but it will be infeasible to annotate everything.
 Just a few examples:
@@ -45,7 +45,7 @@ Exploit the unannotated data to get better feature representations and improve t
  Choose the data that is going to be annotated.
  
  
-# Active Learning: Higher accuracy with less data annotation
+## Active Learning: Higher accuracy with less data annotation
 
 ![graph](figures/Framework.png)
 
@@ -73,5 +73,5 @@ In the typical QBC implementation, every model decides the output category and v
 	- (Maximize) Vote Entropy: $$ -\frac{V(c)}{C}Log(\frac{V(c)}{C}) $$
 
 
-# Summary
+## Summary
 In the era of Data Sceince, I think active learning methods have great potential.
