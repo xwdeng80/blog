@@ -1,5 +1,5 @@
 ---
-layout: post: 
+layout: post
 title:  "Self-supervised cross validation by embracing data generation structure"
 date:   2022-03-10 22:10:33 +0200
 permalink: activelearning
