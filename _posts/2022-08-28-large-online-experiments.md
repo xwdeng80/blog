@@ -2,7 +2,7 @@
 layout: post
 title:  "Dropout Buyers in Large-scale Online Experimentation"
 date:   2022-08-28 16:45:00 +0200
-permalink: onlinedesign
+permalink: large-online-experiments
 tags: [Online Experimentation]
 categories: [online-experiments]
 excerpt: "Large-scale Online Experimentation"
