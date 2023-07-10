@@ -32,3 +32,6 @@ It is somehow a funny question to ask: to be or not to be. Data Science is truly
      + A close loop of data-modeling-decision.
 
 # Summary
+
+Form a statistical perspective, a key of doing research in data science is to understand the data generation
+mechanism. It will enable model inference, model prediction, and data-driven decision making (optimization).
