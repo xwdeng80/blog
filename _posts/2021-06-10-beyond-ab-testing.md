@@ -18,10 +18,11 @@ Online Experimentation has been very pouplar with wide applications in various s
 # Perspectives
 
 The conventional A/B testing conisdier the treatment and control (design A or design B) are randomly assign to experiment units (users). 
-For example,  
+For example, a e-commerce company consider two promotion webpages to boost the click rates. 
+In online experimentation, it is common for millions of users to arrive at the top homepage webpage, while only a small percentage of users reach the
+bottom purchase webpage). Between the transition from the top page to the bottom page, users need to navigate through multiple pages where they can exit from the
+shopping process.
 
-Switchback experiment
-
-
+There are also other online experiments such as switchback experiment and sequanetial experiments.
 
 # Summary
