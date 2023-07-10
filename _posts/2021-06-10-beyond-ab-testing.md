@@ -25,7 +25,7 @@ shopping process.
 
 There are also other online experiments such as switchback experiment and sequanetial experiments.
 
-*Switchback Experimentation*
+- Switchback Experimentation
 
 Due to the limitations of A/B tests and the insufficiency of pre-post comparisons, the Dispatch team recently decided to switch to a new analytic framework for much of its experimentation — ‘switchback testing.’ Fun fact: switchback testing was originally employed in an agricultural context, specifically for cow lactation experiments. 
 
