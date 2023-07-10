@@ -34,7 +34,9 @@ of incomplete metrics. The key idea of the proposed method is to identify and im
 from online experimentation. Specifically, the proposed method consists of two steps. The first step is to partition the data set into clusters after the stratification of experiment-specific
 features, including the treatment assignment and the buyers’ characteristics. In the second step, we perform the kNN-based imputation. Moreover, we divide users with missing outcomes
 into two categories: visitors and dropout buyers, such that the information of dropout buyers can be better utilized. Note that our framework assumes that the treatment assignment and
-user covariates are fully observed, whereas only the outcome at the bottom of the funnel has missing values. The proposed method has three key advantages. First, the proposed
+user covariates are fully observed, whereas only the outcome at the bottom of the funnel has missing values. 
+
+The proposed method has three key advantages. First, the proposed
 method uses the informative covariates during users’ journeys in the shopping funnel to impute incomplete metrics. Specifically, our method evaluates the heterogeneous impact from
 different user segments on missing rates in metrics. Second, the imputed values from our method are intuitive to understand. Lastly, our method employs stratification and clustering
 to alleviate the computation issues for large-scale data in online experimentation.
