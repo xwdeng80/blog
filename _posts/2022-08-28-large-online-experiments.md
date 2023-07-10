@@ -42,8 +42,7 @@ different user segments on missing rates in metrics. Second, the imputed values 
 to alleviate the computation issues for large-scale data in online experimentation.
  
 # Discussion
-Metrics provide strong evidence to support hypotheses in online experimentation and hence
-reduce debates in the decision-making process. This paper introduces the concept of dropout
+This post introduces the concept of dropout
 buyers and classifies users with incomplete metric values into two categories: visitors and
 dropout buyers. For the analysis of incomplete metrics, we propose a cluster-based k-nearest
 neighbors-based imputation method. The proposed imputation method considers both the
