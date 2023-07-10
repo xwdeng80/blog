@@ -72,7 +72,7 @@ Exploit the unannotated data to get better feature representations and improve t
 
 # Active Learning: Higher accuracy with less data annotation
 
-![graph](../assets/graph.png){:height="300" width="500"}
+![graph](./assets/graph.png){:height="300" width="500"}
 
 *Image from https://arxiv.org/abs/1703.02910*
 
