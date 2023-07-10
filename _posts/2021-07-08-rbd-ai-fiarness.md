@@ -21,13 +21,7 @@ While in the AI algorithm, the key is to make the preditive model based on commo
 
 # The Connection and Beyond
 
-One can see that 
-
-
-
-
-
-
-# Connection and Beyond
+One can see that the concept of control-by-noise interaction, signal-to-noise ratio, and response surface methodology can be borrowed into the study of AI fairness, where the common varaibles are used to build the AI algorihtm, while we need to make the AI algorihtm robust, stable, and reliable with respect to sensitive varaibles. 
 
 # Summary
+We believe there are great potential to borrow strength from robust parameter design to enhance AI fairness. 
