@@ -25,4 +25,10 @@ shopping process.
 
 There are also other online experiments such as switchback experiment and sequanetial experiments.
 
+*Switchback Experimentation*
+
+Due to the limitations of A/B tests and the insufficiency of pre-post comparisons, the Dispatch team recently decided to switch to a new analytic framework for much of its experimentation — ‘switchback testing.’ Fun fact: switchback testing was originally employed in an agricultural context, specifically for cow lactation experiments. 
+
+In switchback testing, the core concept is that we switch back and forth between control and treatment algorithms in a certain region at alternating time periods. For example, in the SOS pricing example, we switch back and forth every 30 minutes between having SOS pricing and not having SOS pricing. We then compare the customer experience and marketplace efficiency between the control time bucket and treatment time bucket metrics corresponding to the decisions made by the algorithm during the two periods.
+
 # Summary
