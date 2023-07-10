@@ -44,14 +44,15 @@ accident with loss of life. Thus, reliability is critical, especially for autono
 
 We introduce the “SMART” framework for AI reliability study, which contains five components. Here, the acronym “SMART” comes from the first letter of the five
 components below.
-• Structure of the system: Understanding the system structure is a fundamental step
-in the AI reliability study.
-• Metrics of reliability: Appropriate metrics need to be defined for AI reliability so that
-data can be collected over those metrics.
-• Analysis of failure causes: Conducting failure analysis to understand how the system
-fails (i.e., failure modes) and what factors affect the reliability.
-• Reliability assessments: Reliability assessments of AI systems include reliability mod-
-eling, estimation, and prediction.
+
+• Structure of the system: Understanding the system structure is a fundamental step in the AI reliability study.
+
+• Metrics of reliability: Appropriate metrics need to be defined for AI reliability so that data can be collected over those metrics.
+
+• Analysis of failure causes: Conducting failure analysis to understand how the system fails (i.e., failure modes) and what factors affect the reliability.
+
+• Reliability assessments: Reliability assessments of AI systems include reliability modeling, estimation, and prediction.
+
 • Test planning: Test planning methods are needed for efficient reliability data collection.
 
 The ultimate goal of statistical reliability analysis is to improve designs for reliable AI systems.
