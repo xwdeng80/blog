@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Data Distillation from An Experimental Design Perspective"
-date:   2023-10-08 10:55:00 +0200
+date:   2023-11-08 10:55:00 +0200
 permalink: DD-stat-DoE
 tags: [Data Science]
 categories: [data-science]
